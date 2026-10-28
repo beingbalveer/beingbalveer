@@ -1,31 +1,31 @@
-# 👋 Welcome to Balveer Dhanoriya's GitHub
+### Balveer Dhanoriya
 
-Hello! I'm **Balveer Dhanoriya** (@beingbalveer), a passionate developer focused on 
-building innovative solutions that solve real-world problems.
+**AI engineer — agentic systems, RAG, voice AI.**
 
-## 🛡️ Featured Project: Distraction Blocker
+Eight years shipping software that has to survive production. I started in mobile —
+offline-first POS on broken hardware, a VPN client on three form factors — which is
+where I learned that the interesting failures are never in the model.
 
-**The ultimate distraction blocker for Reddit and YouTube** - A powerful browser 
-extension that helps you eliminate digital distractions by selectively hiding UI elements.
+Today I build AI systems end to end: architecture, cloud, delivery.
 
-### Key Features:
-- 🎯 Selective Content Hiding (Reddit, YouTube, Instagram, Facebook)
-- ⚙️ Easy-to-Use Interface with simple toggles
-- 💾 Persistent Settings (auto-saved locally)
-- 🔒 Privacy-Focused (no external tracking)
-- ⚡ Lightweight & Fast
+**What I'm working on**
 
-🔗 [View Project](https://github.com/beingbalveer/distraction-blocker)
+- **[GraphMind](https://github.com/beingbalveer/GraphMind)** — open-source, AI-native
+  knowledge workspace. Conversations branch into a DAG instead of scrolling away;
+  `O(N)` token-budgeted lineage pruning, hybrid RRF retrieval over Postgres
+  (`tsvector` + `pgvector`), provider-agnostic core across Gemini, Claude, OpenAI,
+  DeepSeek and local Ollama.
+- **Production voice AI** — sub-600ms speech-to-speech over WebRTC, in-call tool
+  execution, and code-mixed Hindi–English ASR for the Indian market.
+- **Deterministic agents** — a six-stage research pipeline that verifies every
+  citation against its source text with an adversarial LLM judge.
 
-## 💻 Skills & Tech Stack
+**How I think about it**
 
-- **Mobile Development**: Android, Flutter
-- **AI/ML**: Artificial Intelligence, Machine Learning
-- **Web**: JavaScript, Browser Extensions
-- **Tools**: Git, VS Code
+Agents are 20% prompts and 80% distributed systems. Idempotency, stop conditions,
+context budgets and evals are what make the difference between a demo and something
+a business runs on.
 
-## 🤝 Connect With Me
+**Elsewhere**
 
-- Twitter: [@this_is_bd](https://twitter.com/this_is_bd)
-- LinkedIn: [Balveer Dhanoriya](https://www.linkedin.com/in/balveer-dhanoriya)
-- 📧 Open for collaborations and opportunities!
+[balveerdhanoriya.com](https://balveerdhanoriya.com) · [LinkedIn](https://linkedin.com/in/balveer-dhanoriya)
